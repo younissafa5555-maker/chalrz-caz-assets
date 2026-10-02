@@ -1,0 +1,7 @@
+{
+    "name":  "CHALRZ",
+    "symbol":  "CAZ",
+    "description":  "CHALRZ (CAZ) is a fixed-supply token on TON designed for fast transfers and DeFi participation. Minting will be permanently closed after the initial issuance. A transparent admin-activated 167-hour incoming-transfer restriction may apply only to the designated DeDust vault jetton wallet; it automatically expires and does not block liquidity deposits.",
+    "image":  "https://raw.githubusercontent.com/younissafa5555-maker/chalrz-caz-assets/main/metadata/chalrz-caz.jpg",
+    "decimals":  "9"
+}
